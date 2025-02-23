@@ -1,5 +1,5 @@
 import { RiRobot2Line } from "react-icons/ri";
-import { FaEnvelope, FaGlobe, FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 
 export default function Footer() {
   return (
